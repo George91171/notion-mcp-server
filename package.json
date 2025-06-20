@@ -1,0 +1,10 @@
+{
+  "name": "notion-mcp-server",
+  "version": "0.1.0",
+  "description": "Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agents to Notion via Model Context Protocol \u2014 pages, databases, blocks, comments, files.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
